@@ -32,4 +32,4 @@ weave基于python编写，保留了python语言的诸多特性，但在语法方
         print a+b?
         输出：3
 以上就是weave1.0.0版本的所有语法。
-weave官方将会持续进行更新。
+weave将会持续进行更新。
